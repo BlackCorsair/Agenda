@@ -7,6 +7,7 @@ using std::string;
 void menu(void);
 bool phoneVerification(unsigned int number);
 
+// 35 45 65 98
 
 // VARIABLES GLOBALES
 bool EXIT = false;
